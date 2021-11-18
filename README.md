@@ -1,2 +1,2 @@
 # CalculatorASP-NET5
-Simple calculator with operations the sum, subtraction, division, multiplication, mean and root squared.
+Calculadora simples com operações de soma, subtração, divisão, multiplicação, média e raiz quadrada. Este projeto está utilizando o método Get.
